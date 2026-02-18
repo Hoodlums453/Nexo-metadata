@@ -1,0 +1,17 @@
+{
+  "name": "NEXO",
+  "symbol": "NEXO",
+  "description": "NATIVE NEXO TOKEN LIVE ON SOLANA NETWORK",
+  "image": "https://raw.githubusercontent.com/Hoodlums453/Nexo-metadata/refs/heads/main/Nexo_jpeg.jpg",
+  "external_url": "https://x.com/Nexo",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/Hoodlums453/Nexo-metadata/refs/heads/main/Nexo_jpeg.jpg",
+        "type": "image/jpeg"
+      }
+    ],
+    "category": "fungible"
+  }
+}
